@@ -29,6 +29,13 @@ let info = `
 ┊⫹⫺ *Permanent:* = _${ppm}k (Unlimited)_
 ╰═┅═━––––––๑
 
+*Bisa juga menggunakan payment wl/dl Growtopia*
+1 minggu + Premium : 5wls
+1bulan + premium : 20 wls
+2 bulan + premium : 30 wls
+4 bulan + premium : 50 wls
+permanent + premium : 1dls
+
 *⫹⫺ PAYMENT:*
 • *Pulsa:* [${ppulsa}]
 • *Dana:* [${pdana}]
@@ -41,6 +48,8 @@ let info = `
 
 🗣️: Scam ga nih kak?
 💬: Enggalah, Owner 100% Tepati janji #STAYHALAL
+
+Note:Kalo Mau beli chat owner langsung karena kalau make order owner tidak akan respon
 
 ▌│█║▌║▌║║▌║▌║█│▌
 `

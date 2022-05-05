@@ -210,7 +210,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	rows: [
 	    {title: `⚡ ${pmenus} SPEED BOT`, rowId: ".ping", description: "Menampilkan kecepatan respon BOT"},
 	    {title: `💌 ${pmenus} OWNER BOT`, rowId: ".owner", description: "Menampilkan List owner BOT"},
-	    {title: `📔 ${pmenus} SCRIPT BOT`, rowId: ".sc", description: `Source Code ${namebot}`},
+	    {title: `📔 ${pmenus} owner bio`, rowId: "..owner bio", description: `owner bio`},
 	]
     },{
 	title: `${htki} SUPPORT ${htka}`,
@@ -469,8 +469,8 @@ const listMessage = {
             templateButtons: [
                 {
                     urlButton: {
-                        displayText: `🎀 ${namebot}`,
-                        url: 'https://kannxapi.herokuapp.com/'
+                        displayText: `github`,
+                        url: 'github.com/NdaaXD'
                     }
                 },
                 {

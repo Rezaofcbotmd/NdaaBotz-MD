@@ -67,9 +67,9 @@ global.nameown = 'Jaka - Kun'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['18126338970'],
+  ['625785694474'],
+  ['6285785694474'],
+  ['85785694474'],
   ['62831433937633', '❦ Jaka - Kun', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here

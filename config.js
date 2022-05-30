@@ -127,7 +127,7 @@ global.author = '                「 Eza Botz あ⁩ 」'
 /*============== LOGO ==============*/
 global.thumb = 'https://telegra.ph/file/bd1b95d7dec64aa7fdc1a.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/bd1b95d7dec64aa7fdc1a.jpg'
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
+global.giflogo = 'https://telegra.ph/file/351c2f0ec102adb3e4d63.mp4'
 global.thumbs = ['https://telegra.ph/file/bd1b95d7dec64aa7fdc1a.jpg', 'https://telegra.ph/file/bd1b95d7dec64aa7fdc1a.jpg', 'https://telegra.ph/file/bd1b95d7dec64aa7fdc1a.jpg','https://telegra.ph/file/bd1b95d7dec64aa7fdc1a.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 

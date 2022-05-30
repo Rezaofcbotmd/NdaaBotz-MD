@@ -70,7 +70,7 @@ global.owner = [
   ['6289606790112'],
   ['6289606790112'],
   ['6289606790112'],
-  ['62831433937633', '❦ Reza - Kun', true]
+  ['6285785694474', '❦ Reza - Kun', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -126,7 +126,7 @@ global.author = '                「 Eza Botz あ⁩ 」'
 
 /*============== LOGO ==============*/
 global.thumb = 'https://telegra.ph/file/eb106ec675f18479c7431.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/13d06c34f88ae98399484.jpg'
+global.imagebot = 'https://telegra.ph/file/bd1b95d7dec64aa7fdc1a.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://telegra.ph/file/17a4832f1fa6bfbd0cfea.jpg', 'https://telegra.ph/file/9cf0ce0f72c5fb72b90b3.jpg', 'https://telegra.ph/file/75809d54d7b7a6044c6fc.jpg','https://telegra.ph/file/c2a9f3a91bfdc9a02ee05.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='

@@ -10,7 +10,6 @@ const defaultMenu = {
   before: `
 %dash
 %m1 *U S E R*
-
 %m2 *Name:* %name
 %m2 *Tag:* %tag
 %m2 *Status:* %prems

@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/zetwo_botz_'
-global.sgh = 'https://github.com/JakaV1'
+global.sig = 'https://instagram.com/boruto.ofical'
+global.sgh = 'https://github.com/Rezaofc'
 global.sgc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
-global.sdc = 'https://wa.me/message/MKYNWO66LFYPL1'
+global.sdc = 'https://wa.me/6289606790112'
 global.snh = 'https://'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081335334848'
+global.pdana = '6289606790112'
 global.povo = '-'
-global.pgopay = '085785694474'
-global.ppulsa = '081335334848'
-global.ppulsa2 = '081335334848'
+global.pgopay = '089606790112'
+global.ppulsa = '089606790112'
+global.ppulsa2 = '081515696780'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281335334848'
-global.nomorown = '6285785694474'
-global.namebot = 'Zerotwo Botz'
-global.nameown = 'Jaka - Kun'
+global.nomorbot = '6281515696780'
+global.nomorown = '6289606790112'
+global.namebot = 'Eza Botz'
+global.nameown = 'Reza - Kun'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['625785694474'],
-  ['6285785694474'],
-  ['85785694474'],
-  ['62831433937633', '❦ Jaka - Kun', true]
+  ['6289606790112'],
+  ['6289606790112'],
+  ['6289606790112'],
+  ['62831433937633', '❦ Reza - Kun', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,13 +115,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Zerotwo Botz あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Zerotwo - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Zerotwo Botz'
+global.wm = '                「 Eza Botz あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Eza Bot˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Eza Botz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Zerotwo Botz あ⁩ 」'
+global.author = '                「 Eza Botz あ⁩ 」'
 
 
 /*============== LOGO ==============*/

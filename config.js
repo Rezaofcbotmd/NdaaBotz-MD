@@ -44,7 +44,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/boruto.ofical'
+global.sig = 'https://instagram.com/itz.reza_official_'
 global.sgh = 'https://github.com/Rezaofc'
 global.sgc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
 global.sdc = 'https://wa.me/6289606790112'
@@ -70,7 +70,7 @@ global.owner = [
   ['6289606790112'],
   ['6289606790112'],
   ['6289606790112'],
-  ['6285785694474', '❦ Reza - Kun', true]
+  ['6289606790112', '❦ Reza - Kun', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?

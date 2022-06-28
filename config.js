@@ -121,7 +121,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘EzaBot-MD˘ฅ ꒱ ‧₊˚꒷︶
 global.wm3 = '⫹⫺ EzaBot-MD'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺BOT WHATSAPP 2022 | By ${global.nameown}`
+global.titlebot = `⫹⫺BOT WA 2022 | By ${global.nameown}`
 global.author = '                「 EzaBot-MD 」'
 
 

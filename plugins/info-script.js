@@ -5,7 +5,7 @@ let text = `*SC NYA ADA DI AKUN GITHUB GW CARI SENDIRI ￣へ￣*
 _Jangan Lupa Kasih Stars_
 `
 const templateButtons = [
-    {index: 1, urlButton: {https://youtube.com/channel/UCoUIE95oCiyo_Ps0l9rhcdw: 'chenel YT', url: sgh}},
+    {index: 1, urlButton: {displayText: 'My Github', url: sgh}},
     {index: 2, urlButton: {displayText: 'Group Official', url: sgc}},
     {index: 3, quickReplyButton: {displayText: 'Owner', id: '.owner'}},
     {index: 4, quickReplyButton: {displayText: 'Donasi', id: '.donasi'}},

@@ -10,6 +10,7 @@
 // • The.Sad.Boy01
 // • Rasel comel
 // • Jaka Gans
+// • RezaOfc
 // • Xtreshe (Beban)
 // • Dll
 
@@ -46,7 +47,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/itz.reza_official_'
 global.sgh = 'https://github.com/Rezaofc'
-global.sgc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
+global.sgc = 'https://chat.whatsapp.com/BCgUSCxQltq8SwcpJe1tDf'
 global.sdc = 'https://wa.me/6289606790112'
 global.snh = 'https://'
 
@@ -61,8 +62,8 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6281515696780'
 global.nomorown = '6289606790112'
-global.namebot = 'Eza Botz'
-global.nameown = 'Reza - Kun'
+global.namebot = 'EzaBot-MD'
+global.nameown = 'Reza Official'
 
 
 /*============== STAFF ==============*/
@@ -70,7 +71,7 @@ global.owner = [
   ['6289606790112'],
   ['6289606790112'],
   ['6289606790112'],
-  ['6289606790112', '❦ Reza - Kun', true]
+  ['6289606790112', '❦ Reza official', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,13 +116,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Eza Botz あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Eza Bot˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Eza Botz'
+global.wm = '                「 EzaBot-MD 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘EzaBot-MD˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ EzaBot-MD'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Eza Botz あ⁩ 」'
+global.titlebot = `⫹⫺BOT WHATSAPP 2022 | By ${global.nameown}`
+global.author = '                「 EzaBot-MD 」'
 
 
 /*============== LOGO ==============*/

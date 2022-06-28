@@ -1,27 +1,7 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	
 	// ‼️ NOTE: Link script Jangan diubah, dihapus atau diganti
-let text = `❏ *📮 Script Multi Device*
-│• *Script :* 
-│↳ 
-│• *Node_Modules:*
-│↳ 
-│• *Base :* 
-│↳ github.com/bochilgaming/games-wabot-md/
-┗──────────═┅═──────────
-
-❏ *📮 Script Non MD*
-│• *Script :* 
-│↳ 
-│• *Base :* 
-│↳ github.com/bochilgaming/games-wabot
-┗──────────═┅═──────────
-📍 *N o t e :* 
-• Jangan lupa minta izin owner sebelum menggunakan scriptnya kak!
-• Jangan Lupa kasih star, follow & kasih credit
-• Dilarang menjual Script Ini!
-• Jika menemukan bug di script, harap lapor owner
-• Dilarang reupload sc, Hanya boleh fork
+let text = `*GAK ADA BANG CARI SENDIRI SC BOT LAIN ￣へ￣*
 `
 const templateButtons = [
     {index: 1, urlButton: {displayText: 'My Github', url: sgh}},

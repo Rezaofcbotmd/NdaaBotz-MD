@@ -10,6 +10,9 @@ let text = `
 │ • *Gopay:* [${global.pgopay}]
 │ • *Dana:* [${global.pdana}]
 ❏────
+
+*DONASI VIA FOLLOW IG JUGA BOLEH*
+_https://instagram.com/itz.reza_official__
 `
 const templateButtons = [
     {index: 2, urlButton: {displayText: '📷 Instagram', url: sig}},
